@@ -46,7 +46,7 @@
 
 </div>
 <div align="justify">
-<i><b>Oi</b> :wave:, sou o <code>Sheila</code>. 
+<i><b>Oi</b> :wave:, sou a <code>Sheila</code>. 
 </div>
 
 -----
